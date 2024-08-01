@@ -9,9 +9,7 @@ This repository contains the code and data for the paper **"A measure of the imp
 - [Methodology](#methodology)
 - [Importance of Moment (IOM)](#importance-of-moment-iom)
 - [Results](#results)
-- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -47,30 +45,9 @@ Key findings from the study include:
 - Ace pitchers (those who received Cy Young Award votes) tend to pitch even faster in high IOM two-strike situations.
 - The DTMC model effectively explains the probabilistic structure of a baseball PA and player behavior.
 
-## Usage
-
-To use the code in this repository, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/importance-of-moment-for-ball-strike-counts.git
-    ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the analysis:
-    ```bash
-    python analysis.py
-    ```
-
 ## Contributing
 
 We welcome contributions to this project. Please submit pull requests or open issues for any bugs or enhancements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## References
 
