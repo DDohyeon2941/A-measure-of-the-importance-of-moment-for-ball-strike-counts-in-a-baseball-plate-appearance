@@ -21,7 +21,7 @@ The dataset includes statistics from Major League Baseball (MLB) games, provided
 
 - Ball-strike counts
 - Pitch types and speeds
-- Outcomes like hits, walks, and strikeouts
+- Outcomes like base (double, single, wlak, home run, triple, hit by pitch, intent walk, field error), out(groundout, strikeout, flyout, pop out, forceout, lineout, grounded into dp, bunt groundout, double play, sac fly, fielders choice out, bunt pop out, strikeout - dp, sac fly dp, bunt lineout, triple play)
 
 ## Methodology
 
