@@ -52,13 +52,17 @@ We used the code files to extract information and generate tables in the manuscr
 
 - First of all, we used the get_state_observation_[github].py and get_elite_state_observation_0119.py to extract ball speed and observation for each count.
   
-  whole: episode_list_0119_f_index.pkl, whole_state_ratio_0119.csv,
+  whole: episode_list_0119_f_index.pkl, whole_state_ratio_0119.csv
+  
   elite: elite_state_start_speed_0119.pickle, elite_state_ratio_0119.csv
   
 - Subsequently, we generated the limiting probabilities for count using get_elite_limit_prob_importance_fastball_0119.py and get_limit_prob_importance_fastball_0119.py
--- whole_dataset_empirical_validity_0119.csv, elite_dataset_empirical_validity_0119.csv
+
+  whole_dataset_empirical_validity_0119.csv, elite_dataset_empirical_validity_0119.csv
+
 - After extracting the imformation, we generated tables with the code files
--- generate_tables5.py, generate_tables6.py, generate_tables7.py, generate_tables8.py, generate_tables9.py,    
+
+  generate_tables5.py, generate_tables6.py, generate_tables7.py, generate_tables8.py, generate_tables9.py,    
 
 
 
